@@ -1,0 +1,48 @@
+[submodule "sub-I39/micr/sub-I39_ses-02_ce-intensity_sample-occipital_chunk-034_OCT.ome.zarr"]
+	path = sub-I39/micr/sub-I39_ses-02_ce-intensity_sample-occipital_chunk-034_OCT.ome.zarr
+	url = https://github.com/dandizarrs/7d33a72e-259f-4a9f-85f7-ec4126e5329f
+	datalad-id = 4b5468b4-c32e-434d-ade1-32e619f17533
+[submodule "sub-I39/micr/sub-I39_ses-01_ce-intensity_sample-occipital_chunk-034_OCT.ome.zarr"]
+	path = sub-I39/micr/sub-I39_ses-01_ce-intensity_sample-occipital_chunk-034_OCT.ome.zarr
+	url = https://github.com/dandizarrs/1c0e023e-150d-43a7-948b-dc46dd514ca6
+	datalad-id = ee07e9b5-9f68-4f36-8e5a-54e092b1263e
+[submodule "sub-I39/micr/sub-I39_ses-02_ce-orientation_sample-occipital_chunk-034_OCT.ome.zarr"]
+	path = sub-I39/micr/sub-I39_ses-02_ce-orientation_sample-occipital_chunk-034_OCT.ome.zarr
+	url = https://github.com/dandizarrs/a5f26f6d-9e38-4707-8e19-193974b36761
+	datalad-id = 5096ba27-66d9-4867-9fb0-881f4076c032
+[submodule "sub-I39/micr/sub-I39_ses-01_ce-orientation_sample-occipital_chunk-034_OCT.ome.zarr"]
+	path = sub-I39/micr/sub-I39_ses-01_ce-orientation_sample-occipital_chunk-034_OCT.ome.zarr
+	url = https://github.com/dandizarrs/2ff3b998-cc54-4ee5-8038-fe2502d61ae9
+	datalad-id = 8fb8947e-e4fc-4d46-8c83-57185de3bbb9
+[submodule "sub-I39/micr/sub-I39_ses-01_ce-retardance_sample-occipital_chunk-034_OCT.ome.zarr"]
+	path = sub-I39/micr/sub-I39_ses-01_ce-retardance_sample-occipital_chunk-034_OCT.ome.zarr
+	url = https://github.com/dandizarrs/b5125ff7-4c28-4bb8-98fe-974983e0d40c
+	datalad-id = 4fe33a7c-a98c-458d-8457-21b1fb311e7c
+[submodule "sub-I39/micr/sub-I39_ses-02_ce-retardance_sample-occipital_chunk-034_OCT.ome.zarr"]
+	path = sub-I39/micr/sub-I39_ses-02_ce-retardance_sample-occipital_chunk-034_OCT.ome.zarr
+	url = https://github.com/dandizarrs/ed4efe39-3d97-4d7e-b354-23dfb4d613a2
+	datalad-id = 6921af61-81b8-47fd-a51a-8581ab037da0
+[submodule "sub-I39/micr/sub-I39_ses-03_ce-intensity_sample-occipital_chunk-034_OCT.ome.zarr"]
+	path = sub-I39/micr/sub-I39_ses-03_ce-intensity_sample-occipital_chunk-034_OCT.ome.zarr
+	url = https://github.com/dandizarrs/1a5fb628-d5d5-4693-af7c-e0cdb4b23967
+	datalad-id = 91d6adf3-0c5e-4bd2-9f78-31872f079cee
+[submodule "sub-I39/micr/sub-I39_ses-03_ce-orientation_sample-occipital_chunk-034_OCT.ome.zarr"]
+	path = sub-I39/micr/sub-I39_ses-03_ce-orientation_sample-occipital_chunk-034_OCT.ome.zarr
+	url = https://github.com/dandizarrs/09eeb355-7dde-4094-943b-d8f7e7afd9f1
+	datalad-id = daee91e5-fe29-4f32-8a1e-1dbb4a880fde
+[submodule "sub-I39/micr/sub-I39_ses-03_ce-retardance_sample-occipital_chunk-034_OCT.ome.zarr"]
+	path = sub-I39/micr/sub-I39_ses-03_ce-retardance_sample-occipital_chunk-034_OCT.ome.zarr
+	url = https://github.com/dandizarrs/07ee818b-8fad-4a76-b81a-7601e3465133
+	datalad-id = c9ce270c-c4cc-4616-b6da-fbc9a6881b82
+[submodule "sub-I39/micr/sub-I39_ses-04_ce-intensity_sample-occipital_chunk-034_OCT.ome.zarr"]
+	path = sub-I39/micr/sub-I39_ses-04_ce-intensity_sample-occipital_chunk-034_OCT.ome.zarr
+	url = https://github.com/dandizarrs/cf615248-6645-43ca-9a4e-c5087b73f1d3
+	datalad-id = 1be02147-41d8-4c2f-add1-0f5c2de3d515
+[submodule "sub-I39/micr/sub-I39_ses-04_ce-orientation_sample-occipital_chunk-034_OCT.ome.zarr"]
+	path = sub-I39/micr/sub-I39_ses-04_ce-orientation_sample-occipital_chunk-034_OCT.ome.zarr
+	url = https://github.com/dandizarrs/3536c831-e577-475f-b28e-5962399fb83b
+	datalad-id = c1a7bf67-f305-4d0d-a700-49d99a1cfcf6
+[submodule "sub-I39/micr/sub-I39_ses-04_ce-retardance_sample-occipital_chunk-034_OCT.ome.zarr"]
+	path = sub-I39/micr/sub-I39_ses-04_ce-retardance_sample-occipital_chunk-034_OCT.ome.zarr
+	url = https://github.com/dandizarrs/6cb18c5f-1926-42f1-bb22-729b1c376043
+	datalad-id = fb5d3681-220f-44ac-b403-3c4702fc22c8
